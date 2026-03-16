@@ -69,7 +69,7 @@ Example analysis performed:
 - Account-level transaction behaviour patterns
 
 📂 **SQL File:**  
-[`CovidPortfolioProject.sql`](https://github.com/Llinvile/COVID-19-Data-Exploration-and-Dashboard/blob/main/CovidPortfolioproject.sql)
+[`Fraud_Detection_Project.sql`](https://github.com/Llinvile/Fraud-Detection-Analytics-SQL-Power-BI/blob/main/Fraud%20Detection_SQL.sql)
 
 ---
 
