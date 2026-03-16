@@ -68,6 +68,9 @@ Example analysis performed:
 - Abnormal transaction amount analysis
 - Account-level transaction behaviour patterns
 
+📂 **SQL File:**  
+[`CovidPortfolioProject.sql`](https://github.com/Llinvile/COVID-19-Data-Exploration-and-Dashboard/blob/main/CovidPortfolioproject.sql)
+
 ---
 
 ## Power BI Dashboard
