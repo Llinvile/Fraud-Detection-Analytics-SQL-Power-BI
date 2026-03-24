@@ -75,16 +75,32 @@ Example analysis performed:
 
 ## Power BI Dashboard
 
-The Power BI dashboard visualises fraud risk indicators to support investigation and monitoring.
+The Power BI dashboard provides an interactive view of fraud exposure, transaction behaviour, and high-risk account identification to support fraud investigation and decision-making.
 
-Key insights include:
+### Dashboard Preview
 
-- Suspicious transaction patterns
-- High-risk transaction frequency
-- Transaction value distribution
-- Account-level fraud indicators
+![Fraud Dashboard](powerbi/dashboard_demo.gif)
 
-*Dashboard screenshots will be added once visualisations are completed.*
+### Key Insights
+
+- 18bn total fraud exposure identified across transactions  
+- 18.42bn classified as high-priority fraud  
+- 1K high-risk accounts flagged for investigation  
+- 0.06% recoverability rate indicating limited recovery potential  
+
+### Dashboard Features
+
+- Fraud exposure overview (KPIs)
+- Fraud type analysis (CASH_OUT vs TRANSFER)
+- Time-based fraud pattern analysis
+- High-risk account ranking
+- Data integrity and balance mismatch analysis
+
+📊 **Power BI File:**  
+[Download Dashboard](powerbi/Fraud_Detection_Dashboard.pbix)
+
+📑 **Project Presentation:**  
+[View Project Summary](powerbi/Fraud_Detection_Dashboard.pptx)
 
 ---
 
@@ -110,6 +126,8 @@ fraud-detection-analytics
 │   └── fraud_analysis_queries.sql
 │
 ├── powerbi
-│   └── fraud_dashboard.pbix
+│   ├── fraud_dashboard.pbix
+│   ├── Fraud_Detection_Dashboard.pptx
+│   └── dashboard_demo.gif
 │
 └── README.md
