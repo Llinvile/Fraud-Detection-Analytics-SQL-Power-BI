@@ -79,7 +79,7 @@ The Power BI dashboard provides an interactive view of fraud exposure, transacti
 
 ### Dashboard Preview
 
-![Fraud Dashboard](powerbi/dashboard_demo.gif)
+![Fraud Dashboard](dashboard_demo.gif)
 
 ### Key Insights
 
@@ -100,7 +100,7 @@ The Power BI dashboard provides an interactive view of fraud exposure, transacti
 [Download Dashboard](powerbi/Fraud_Detection_Dashboard.pbix)
 
 📑 **Project Presentation:**  
-[View Project Summary](powerbi/Fraud_Detection_Dashboard.pptx)
+[View Project Summary](https://github.com/Llinvile/Fraud-Detection-Analytics-SQL-Power-BI/blob/main/Fraud_Detection_Dashboard.pdf)
 
 ---
 
