@@ -99,3 +99,17 @@ Key insights include:
 ---
 
 ## Repository Structure
+
+```text
+fraud-detection-analytics
+│
+├── data
+│   └── fraud_transactions_sample.csv
+│
+├── sql
+│   └── fraud_analysis_queries.sql
+│
+├── powerbi
+│   └── fraud_dashboard.pbix
+│
+└── README.md
