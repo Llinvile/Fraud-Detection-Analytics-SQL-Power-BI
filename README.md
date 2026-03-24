@@ -96,8 +96,17 @@ The Power BI dashboard provides an interactive view of fraud exposure, transacti
 - High-risk account ranking
 - Data integrity and balance mismatch analysis
 
-📊 **Power BI File:**  
-[Download Dashboard](powerbi/Fraud_Detection_Dashboard.pbix)
+📊 **Power BI Dashboard File (PBIX)**  
+Due to GitHub file size limitations, the full dashboard file is hosted externally.
+
+**Includes:**
+- 4 interactive dashboard pages  
+- Fraud KPI monitoring  
+- Risk-based account ranking  
+- Time-based fraud analysis
+
+[Download Power BI Dashboard](https://drive.google.com/file/d/1KwU5CEKqid5HwTnsXLSgW-VHdl4nahps/view?usp=sharing)
+
 
 📑 **Project Presentation:**  
 [View Project Summary](https://github.com/Llinvile/Fraud-Detection-Analytics-SQL-Power-BI/blob/main/Fraud_Detection_Dashboard.pdf)
@@ -106,12 +115,11 @@ The Power BI dashboard provides an interactive view of fraud exposure, transacti
 
 ## Project Status
 
-🚧 **In Progress**
+✅ **Completed**
 
-- SQL analysis completed  
-- Data preparation completed  
-- Power BI dashboard currently in development  
-
+- SQL analysis and data preparation completed  
+- Power BI dashboard developed and finalised  
+- Dashboard preview and project presentation included  
 ---
 
 ## Repository Structure
@@ -125,9 +133,9 @@ fraud-detection-analytics
 ├── sql
 │   └── fraud_analysis_queries.sql
 │
-├── powerbi
+├── powerbi/
 │   ├── fraud_dashboard.pbix
-│   ├── Fraud_Detection_Dashboard.pptx
-│   └── dashboard_demo.gif
+│   ├── dashboard_demo.gif
+│   └── Fraud_Detection_Dashboard.pptx
 │
 └── README.md
